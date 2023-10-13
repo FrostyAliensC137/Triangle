@@ -1,0 +1,7 @@
+
+lucky_numbers = [4, 8, 15, 16, 23, 42]
+friends = ["Kevin", "Mike", "Jim", "Garry", "Vincent", "William"]
+
+friends2 = friends.copy()
+friends.sort()
+print(friends)
