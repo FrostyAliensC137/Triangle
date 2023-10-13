@@ -1,0 +1,3 @@
+friends = ["Kevin", "Mike", "Jim", "Garry", "Vincent", "William"]
+friends[1] = "Mike"
+print(friends[1:])
