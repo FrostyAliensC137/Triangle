@@ -1,0 +1,9 @@
+
+
+'''
+Comments are fun
+'''
+
+# print("Comments are fun")
+# This print out a string
+print("Comments are fun")
