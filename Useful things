@@ -1,3 +1,7 @@
+import useful_tools
+
+print(useful_tools.roll_dice(6))
+
 import random
 
 feet_in_mile = 5280
