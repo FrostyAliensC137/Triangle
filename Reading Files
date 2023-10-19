@@ -1,0 +1,7 @@
+
+
+employee_file = open("Employee.txt.html", "r")
+for employee in employee_file.readline():
+    print(employee)
+
+employee_file.close()
